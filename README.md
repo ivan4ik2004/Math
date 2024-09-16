@@ -1,36 +1,35 @@
 # Math
 
-Welcome to the "Math" repository! This repository is dedicated to exploring and understanding various mathematical concepts and theories. Below are the primary topics covered in this repository:
+Добро пожаловать в репозиторий "Math"! Этот репозиторий посвящен изучению и пониманию различных математических концепций и теорий. Ниже приведены основные темы, охваченные в этом репозитории:
 
-## Topics Covered
+## Охваченные темы
 
-### Probability Theory
-Probability theory is the branch of mathematics concerned with the analysis of random phenomena. This section covers fundamental concepts such as probability distributions, expected value, variance, and more.
+### Теория вероятностей
+Теория вероятностей — это раздел математики, который занимается анализом случайных явлений. В этом разделе рассматриваются основные понятия, такие как распределения вероятностей, математическое ожидание, дисперсия и многое другое.
 
-### Combinatorics
-Combinatorics is the field of mathematics dealing with combinations of objects in specific sets under certain constraints. This section explores topics such as permutations, combinations, and the principles of counting.
+### Комбинаторика
+Комбинаторика — это раздел математики, занимающийся комбинациями объектов в определенных множествах при заданных условиях. В этом разделе рассматриваются такие темы, как перестановки, сочетания и принципы подсчета.
 
-### Newton's Binomial Theorem
-Newton's Binomial Theorem provides a formula for expanding powers of a binomial. This section includes derivations, proofs, and applications of the theorem.
+### Бином Ньютона
+Бином Ньютона предоставляет формулу для разложения степеней бинома. В этом разделе приводятся выводы, доказательства и применения данной теоремы.
 
-### Markov Chains
-Markov Chains are mathematical systems that undergo transitions from one state to another within a finite or countable number of possible states. This section covers the fundamentals of Markov Chains, including state transition matrices, steady-state distributions, and applications.
+### Цепи Маркова
+Цепи Маркова — это математические системы, которые переходят из одного состояния в другое в рамках конечного или счетного числа возможных состояний. В этом разделе рассматриваются основы цепей Маркова, включая матрицы переходов, стационарные распределения и применения.
 
-### Bayes' Theorem
-Bayes' Theorem describes the probability of an event based on prior knowledge of conditions related to the event. This section includes explanations, derivations, and examples of how Bayes' Theorem is used in probability theory.
+### Теорема Байеса
+Теорема Байеса описывает вероятность события на основе предварительных знаний об условиях, связанных с этим событием. В этом разделе приводятся объяснения, выводы и примеры использования теоремы Байеса в теории вероятностей.
 
-## Repository Structure
+## Структура репозитория
 
-- `probability_theory/` - Contains files and notes related to probability theory.
-- `combinatorics/` - Contains files and notes related to combinatorics.
-- `binomial_theorem/` - Contains files and notes related to Newton's Binomial Theorem.
-- `markov_chains/` - Contains files and notes related to Markov Chains.
-- `bayes_theorem/` - Contains files and notes related to Bayes' Theorem.
+- `probabilityTheory/` - Файлы и заметки по теории вероятностей. Также рассмотрены темы: комбинаторика, бином Ньютона, иследования вероятностей.
+- `markovChains/` - Файлы и заметки по цепям Маркова.
+- `bayesTheorem/` - Файлы и заметки по теореме Байеса.
 
-## Getting Started
+## Начало работы
 
-To get started with the contents of this repository:
+Чтобы начать работу с содержимым репозитория:
 
-1. Clone the repository:
+1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/Math.git
+   git clone https://github.com/ivan4ik/Math.git
+
